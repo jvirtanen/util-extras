@@ -21,5 +21,6 @@ Add a Maven dependency to Utility Extras:
 License
 -------
 
-Utility Extras is released under the Apache License, Version 2.0. See
-`LICENSE` for details.
+Copyright 2016 Jussi Virtanen.
+
+Released under the Apache License, Version 2.0. See `LICENSE.txt` for details.
