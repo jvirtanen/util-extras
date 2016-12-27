@@ -3,7 +3,7 @@ Utility Extras
 
 Utility Extras contains extensions to Java utility classes.
 
-Utility Extras requires Java Runtime Environment (JRE) 7 or newer.
+Utility Extras requires Java Runtime Environment (JRE) 8 or newer.
 
 
 Download
