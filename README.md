@@ -1,13 +1,10 @@
-Utility Extras
-==============
+# Utility Extras
 
 Utility Extras contains extensions to Java utility classes.
 
 Utility Extras requires Java Runtime Environment (JRE) 8 or newer.
 
-
-Download
---------
+## Download
 
 Add a Maven dependency to Utility Extras:
 
@@ -23,9 +20,7 @@ See the [latest release][] on GitHub.
 
   [latest release]: https://github.com/jvirtanen/util-extras/releases/latest
 
-
-License
--------
+## License
 
 Copyright 2016 Jussi Virtanen.
 
