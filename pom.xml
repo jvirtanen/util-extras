@@ -11,7 +11,7 @@
 
   <groupId>org.jvirtanen.util</groupId>
   <artifactId>util-extras</artifactId>
-  <version>0.2.1-SNAPSHOT</version>
+  <version>0.3.0</version>
 
   <name>Utility Extras</name>
   <description>Extensions to Java utility classes.</description>
@@ -35,7 +35,7 @@
     <connection>scm:git:git@github.com:jvirtanen/util-extras.git</connection>
     <developerConnection>scm:git:git@github.com:jvirtanen/util-extras.git</developerConnection>
     <url>https://github.com/jvirtanen/util-extras</url>
-    <tag>HEAD</tag>
+    <tag>0.3.0</tag>
   </scm>
 
   <properties>
