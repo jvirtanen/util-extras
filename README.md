@@ -1,3 +1,6 @@
+> :warning: This repository is **archived** and no further development
+> will take place.
+
 # Utility Extras
 
 Utility Extras contains extensions to Java utility classes.
